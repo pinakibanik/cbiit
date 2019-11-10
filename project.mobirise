@@ -36,7 +36,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 26,
     "versionPublish": "4.11.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///E:/Juhi/cbiit"
   },
   "pages": {
     "index.html": {
